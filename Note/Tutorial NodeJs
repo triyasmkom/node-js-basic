@@ -1,0 +1,68 @@
+- Menjalankan node js
+  cd /lokasi file
+  node namafile.js
+
+- node default setting version
+  nvm alias default v16.18.1
+
+## REPL
+triyas@triyas-ThinkPad-T420:~/data/Project/BelajarNodeJs/NodeJs$ node
+Welcome to Node.js v14.21.1.
+Type ".help" for more information.
+> .help
+.break    Sometimes you get stuck, this gets you out
+.clear    Alias for .break
+.editor   Enter editor mode
+.exit     Exit the REPL
+.help     Print this help message
+.load     Load JS from a file into the REPL session
+.save     Save all evaluated commands in this REPL session to a file
+
+Press Ctrl+C to abort current expression, Ctrl+D to exit the REPL
+> .exit
+triyas@triyas-ThinkPad-T420:~/data/Project/BelajarNodeJs/NodeJs$
+
+
+-------------------
+triyas@triyas-ThinkPad-T420:~/data/Project/BelajarNodeJs/NodeJs$ node
+Welcome to Node.js v14.21.1.
+Type ".help" for more information.
+> console.info("Hello world");
+Hello world
+undefined
+>
+
+
+### NodeJs standart lib
+WEB APi
+- https://developer.mozilla.org/en-US/docs/Web/API
+
+Node.js v16.18.1 documentation
+- https://nodejs.org/dist/latest-v16.x/docs/api/
+
+
+### Module
+jika mau menggunakan perintah import, format file harus .mjs bukan .js
+
+
+### Require Function
+fitur lama, direkomendasikan menggunakan module
+
+### Global Async
+
+
+### Debug
+node inspect namafile.js
+perintah debugger:
+- cont/c : continue excecution
+- next/n : step next
+- out/o : step out
+- pause: pause running code
+- watch("variable")
+- .exit
+
+
+
+## Report
+node --report-uncaught-exception --report-on-signal\
+--report-onfatalerror app.js

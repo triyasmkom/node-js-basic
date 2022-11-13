@@ -1,0 +1,26 @@
+POST http://localhost:3000
+Content-Type: application/json
+Accept: application/json
+
+{
+  "firstname": "Azka",
+  "lastname": "Nufail"
+}
+
+<> 2022-11-13T105516.200.json
+
+###
+
+POST http://localhost:3000
+Content-Type: application/json
+Accept: application/json
+
+{
+  "firstname": "Azka",
+  "lastname": "Nufail"
+}
+
+<> 2022-11-13T105455.200.json
+
+###
+
