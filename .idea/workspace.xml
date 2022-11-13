@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99ce6179-02cc-4feb-b30f-cb95e3faf202" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NodeJs.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HJUKkd2XMxm2rvFV8SRfCUGMyN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "16.18.1",
+    "javascript.nodejs.core.library.typings.version": "16.18.1",
+    "last_opened_file_path": "/home/triyas/data/Project/BelajarNodeJs/NodeJs/file-system",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.nodejs"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/file-system" />
+      <recent name="$PROJECT_DIR$/global-async" />
+      <recent name="$PROJECT_DIR$/module" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hello-world" />
+      <recent name="$PROJECT_DIR$/module" />
+      <recent name="$PROJECT_DIR$/Note" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.cluster-primary.mjs">
+    <configuration name="test | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/http-server/test.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="cluster-primary.mjs" type="NodeJSConfigurationType" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v16.18.1/bin/node" nameIsGenerated="true" path-to-js-file="cluster-primary.mjs" working-dir="$PROJECT_DIR$/cluster">
+      <method v="2" />
+    </configuration>
+    <configuration name="http-client.mjs" type="NodeJSConfigurationType" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v16.18.1/bin/node" nameIsGenerated="true" path-to-js-file="http-client.mjs" working-dir="$PROJECT_DIR$/http-client">
+      <method v="2" />
+    </configuration>
+    <configuration name="http-server.mjs" type="NodeJSConfigurationType" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v16.18.1/bin/node" nameIsGenerated="true" path-to-js-file="http-server.mjs" working-dir="$PROJECT_DIR$/http-server">
+      <method v="2" />
+    </configuration>
+    <configuration name="main-worker.mjs" type="NodeJSConfigurationType" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v16.18.1/bin/node" nameIsGenerated="true" path-to-js-file="main-worker.mjs" working-dir="$PROJECT_DIR$/worker">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.test | #1" />
+      <item itemvalue="Node.js.cluster-primary.mjs" />
+      <item itemvalue="Node.js.http-server.mjs" />
+      <item itemvalue="Node.js.http-client.mjs" />
+      <item itemvalue="Node.js.main-worker.mjs" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.cluster-primary.mjs" />
+        <item itemvalue="HTTP Request.test | #1" />
+        <item itemvalue="Node.js.http-server.mjs" />
+        <item itemvalue="Node.js.http-client.mjs" />
+        <item itemvalue="Node.js.main-worker.mjs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99ce6179-02cc-4feb-b30f-cb95e3faf202" name="Changes" comment="" />
+      <created>1668002618526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668002618526</updated>
+      <workItem from="1668002620038" duration="6200000" />
+      <workItem from="1668059146050" duration="5221000" />
+      <workItem from="1668071843046" duration="1739000" />
+      <workItem from="1668172802133" duration="5430000" />
+      <workItem from="1668208141248" duration="11008000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/debugger/debugger.mjs</url>
+          <line>1</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
